@@ -1,0 +1,7 @@
+CyberGrip GLITCH v1.4 FIX INSTALL
+
+VersionCode impostato a 1000000 per evitare il blocco di downgrade.
+Apri la cartella del progetto in Android Studio, sincronizza Gradle e premi Run.
+Non premere OK alla richiesta di disinstallazione se vuoi conservare i dati.
+Se compare INSTALL_FAILED_UPDATE_INCOMPATIBLE, la firma e diversa: serve usare la stessa chiave di firma della versione installata oppure disinstallare (perdendo i dati privati).
+Verifica local.properties: il percorso SDK deve corrispondere al tuo Mac.

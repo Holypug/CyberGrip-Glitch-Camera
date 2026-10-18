@@ -1,0 +1,9 @@
+CyberGrip FILM LAB — SDK setup on macOS
+
+The local.properties file uses /Users/poz/Library/Android/sdk as an assumed SDK location based on previous screenshots.
+Verify in Android Studio > Tools > SDK Manager > Android SDK Location.
+If different, edit sdk.dir in local.properties to match your actual SDK path.
+If SDK is missing, install it via SDK Manager.
+Then Sync Gradle and Run.
+
+Do not copy this local.properties file to a different computer without updating its path.

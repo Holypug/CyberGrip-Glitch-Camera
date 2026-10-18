@@ -1,0 +1,28 @@
+# Android Studio / Gradle
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Signing secrets and credentials
+*.jks
+*.keystore
+key.properties
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.log
+
+# APK/AAB outputs (attach signed APK to GitHub Releases instead)
+*.apk
+*.aab
